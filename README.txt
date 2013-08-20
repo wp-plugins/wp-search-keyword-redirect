@@ -2,9 +2,9 @@
 Contributors: Werkpress, nickpelton
 Donate link: http://werkpress.com/plugins
 Tags: search, redirect, keyword
-Requires at least: 3.4
-Tested up to: 3.5.2
-Stable tag: 0.1.0
+Requires at least: 3.5
+Tested up to: 3.6
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,6 +37,9 @@ Please direct questions to the support forum
 1. Screenshot of the Search Keyword Redirect Admin panel
 
 == Changelog ==
+
+= 0.2.0 =
+* Tested in WordPrss 3.6
 
 = 0.1.0 =
 * Refactor plugin structure
