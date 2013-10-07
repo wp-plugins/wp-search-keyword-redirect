@@ -4,7 +4,7 @@ Donate link: http://werkpress.com/plugins
 Tags: search, redirect, keyword
 Requires at least: 3.5
 Tested up to: 3.6
-Stable tag: 1.0
+Stable tag: 0.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,9 +22,9 @@ With this plugin you can define search keywords that redirect to specified URLs.
 == Installation ==
 
 Manual Installation:
+
 1. Upload the `search-keyword-redirect` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place `<?php do_action('Search_Keyword_Redirect_hook'); ?>` in your templates
 
 == Frequently Asked Questions ==
 
