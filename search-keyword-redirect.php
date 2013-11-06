@@ -14,7 +14,7 @@
  * Plugin Name: Search Keyword Redirect
  * Plugin URI:  http://www.werkpress.com/plugins
  * Description: Matches search queries and to keywords. On match redirect to specific pages.
- * Version:     0.2.0
+ * Version:     1.0
  * Author:      Nick Pelton
  * Author URI:  http://werkpress.com/plugins
  * Text Domain: search-keyword-redirect-locale
