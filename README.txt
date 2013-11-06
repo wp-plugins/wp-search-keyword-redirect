@@ -1,10 +1,10 @@
 === Plugin Name ===
-Contributors: Werkpress, nickpelton
+Contributors: WerkPress, nickpelton
 Donate link: http://werkpress.com/plugins
 Tags: search, redirect, keyword
 Requires at least: 3.5
-Tested up to: 3.6
-Stable tag: 0.2.0
+Tested up to: 3.7.1
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
