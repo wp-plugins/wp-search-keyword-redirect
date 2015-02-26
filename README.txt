@@ -1,9 +1,9 @@
 === Plugin Name ===
-Contributors: WerkPress, nickpelton
-Donate link: http://werkpress.com/plugins
+Contributors: Press75, nickpelton
+Donate link: http://press75.com/plugins
 Tags: search, redirect, keyword
 Requires at least: 3.5
-Tested up to: 3.8.0
+Tested up to: 4.1.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -39,13 +39,13 @@ Please direct questions to the support forum
 == Changelog ==
 
 = 1.0 =
-* Tested in WordPrss 3.8
+* Tested in WordPress 4.1.1
 
 = 0.3.0 =
-* Tested in WordPrss 3.7.1
+* Tested in WordPress 3.7.1
 
 = 0.2.0 =
-* Tested in WordPrss 3.6
+* Tested in WordPress 3.6
 
 = 0.1.0 =
 * Refactor plugin structure
